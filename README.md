@@ -354,7 +354,7 @@ The dashboard is designed to support filtering and comparison across dimensions 
 # 🖼️ Dashboard Preview
 
 <p align="center">
-  <img src="Images/customer_behavior.png" alt="ShopPulse Analytics - Customer Behavior Dashboard" width="100%">
+  <img src="Images/ShopPulse Analytics Dashboard Workspace.png" alt="ShopPulse Analytics - Customer Behavior Dashboard" width="100%">
 </p>
 
 <p align="center"><em>ShopPulse Analytics — Customer Behavior Analytics Workspace</em></p>
