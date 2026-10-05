@@ -1,7 +1,7 @@
 # 🛍️ ShopPulse Analytics
 
 <p align="center">
-  <img src="Images/customer_behavior.png" alt="ShopPulse Analytics Dashboard" width="100%">
+  <img src="Images/ShopPulse Analytics Workspace.png" alt="ShopPulse Analytics Dashboard" width="100%">
 </p>
 
 <p align="center">
